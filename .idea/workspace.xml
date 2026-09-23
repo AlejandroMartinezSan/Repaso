@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5656a89a-2b31-4354-a543-757bcdfeea90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beta1/beta1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuto1_/tuto1_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-Web/src/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen-Web/src/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000037585206" />
+      <entry key="MS500" value="1.0331353610374805" />
+      <entry key="S2" value="1.866206059214066" />
+      <entry key="S5" value="3.156519242403225" />
+      <entry key="S10" value="4.884313561985583" />
+      <entry key="S30" value="9.634070380731254" />
+      <entry key="S60" value="13.952907236196078" />
+      <entry key="M2" value="18.080557188482693" />
+      <entry key="M5" value="21.777425268144455" />
+      <entry key="M10" value="23.29969493299029" />
+      <entry key="M15" value="23.84555535164927" />
+      <entry key="M30" value="24.412026117144304" />
+      <entry key="H1" value="24.703267789866484" />
+      <entry key="H2" value="24.85094026349474" />
+      <entry key="H4" value="24.925295800582333" />
+      <entry key="D1" value="24.987525008645076" />
+      <entry key="W1" value="24.99821726245489" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1682008968751972E-7" />
+      <entry key="MS500" value="0.06630564461177285" />
+      <entry key="S2" value="1.224112191828322" />
+      <entry key="S5" value="2.7838088179203186" />
+      <entry key="S10" value="4.661536457477869" />
+      <entry key="S30" value="9.543647647542633" />
+      <entry key="S60" value="13.901900962778518" />
+      <entry key="M2" value="18.052184736367643" />
+      <entry key="M5" value="21.76500677009074" />
+      <entry key="M10" value="23.293260540037746" />
+      <entry key="M15" value="23.841211513447053" />
+      <entry key="M30" value="24.409825940640555" />
+      <entry key="H1" value="24.70216041595217" />
+      <entry key="H2" value="24.850384726705972" />
+      <entry key="H4" value="24.925017566129995" />
+      <entry key="D1" value="24.987478571198267" />
+      <entry key="W1" value="24.998210626937126" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JkXKjw9VdrKrYytUAQsTjugnqX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.ExamenRepaso [clean].executor": "Run",
+    "Maven.ExamenRepaso [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Smart Tomcat.Tomcat9.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/eljok/IdeaProjects/ExamenRepaso/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\eljok\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="115b00bf-f082-4a25-8f8f-2580f215bf01" />
+        <option name="reportName" value="ExamenRepaso/qodana/2026-09-23" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\eljok\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="115b00bf-f082-4a25-8f8f-2580f215bf01" reportId="ExamenRepaso/qodana/2026-09-23" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eljok\IdeaProjects\ExamenRepaso\src" />
+      <recent name="C:\Users\eljok\IdeaProjects\ExamenRepaso\src\main" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat9" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\eljok\.SmartTomcat\ExamenRepaso\ExamenRepaso" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="C:\Users\eljok\IdeaProjects\ExamenRepaso\src\webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.121" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.121" />
+          <option name="version" value="9.0.121.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="ExamenRepaso" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5656a89a-2b31-4354-a543-757bcdfeea90" name="Changes" comment="" />
+      <created>1790205985327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790205985327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/MiServlet.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
