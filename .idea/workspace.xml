@@ -6,22 +6,27 @@
   <component name="ChangeListManager">
     <list default="true" id="5656a89a-2b31-4354-a543-757bcdfeea90" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../beta1/beta1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuto1_/tuto1_.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Examen-Web/src/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen-Web/src/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MiServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MiServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="9fe71ce1-849a-42f2-a7ad-3686287c1522" value="" />
+    </colors>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -32,65 +37,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000037585206" />
-      <entry key="MS500" value="1.0331353610374805" />
-      <entry key="S2" value="1.866206059214066" />
-      <entry key="S5" value="3.156519242403225" />
-      <entry key="S10" value="4.884313561985583" />
-      <entry key="S30" value="9.634070380731254" />
-      <entry key="S60" value="13.952907236196078" />
-      <entry key="M2" value="18.080557188482693" />
-      <entry key="M5" value="21.777425268144455" />
-      <entry key="M10" value="23.29969493299029" />
-      <entry key="M15" value="23.84555535164927" />
-      <entry key="M30" value="24.412026117144304" />
-      <entry key="H1" value="24.703267789866484" />
-      <entry key="H2" value="24.85094026349474" />
-      <entry key="H4" value="24.925295800582333" />
-      <entry key="D1" value="24.987525008645076" />
-      <entry key="W1" value="24.99821726245489" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000149109689055" />
+      <entry key="S2" value="1.2182726187572084" />
+      <entry key="S5" value="2.0884931086931653" />
+      <entry key="S10" value="3.3489479789229586" />
+      <entry key="S30" value="6.594877440159344" />
+      <entry key="S60" value="8.579852221596163" />
+      <entry key="M2" value="10.367549211055778" />
+      <entry key="M5" value="19.241948441941002" />
+      <entry key="M10" value="46.56427288625681" />
+      <entry key="M15" value="77.69713178615199" />
+      <entry key="M30" value="162.15049652927812" />
+      <entry key="H1" value="266.14267694598584" />
+      <entry key="H2" value="355.02629709796634" />
+      <entry key="H4" value="414.62358101825936" />
+      <entry key="D1" value="474.66401947993967" />
+      <entry key="W1" value="486.0655323748233" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S2" value="1.2532964339797124E-206" />
+      <entry key="S5" value="4.4785476085154E-83" />
+      <entry key="S10" value="8.854482754398922E-42" />
+      <entry key="S30" value="6.160381833621598E-14" />
+      <entry key="S60" value="6.892960108904976E-7" />
+      <entry key="M2" value="0.002619369642462165" />
+      <entry key="M5" value="0.47078065020975984" />
+      <entry key="M10" value="3.0377263539554975" />
+      <entry key="M15" value="5.820529019210193" />
+      <entry key="M30" value="11.393704338442756" />
+      <entry key="H1" value="16.112297888975288" />
+      <entry key="H2" value="19.22529109306167" />
+      <entry key="H4" value="21.020806913371768" />
+      <entry key="D1" value="22.65650976590145" />
+      <entry key="W1" value="22.95058425135347" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1682008968751972E-7" />
-      <entry key="MS500" value="0.06630564461177285" />
-      <entry key="S2" value="1.224112191828322" />
-      <entry key="S5" value="2.7838088179203186" />
-      <entry key="S10" value="4.661536457477869" />
-      <entry key="S30" value="9.543647647542633" />
-      <entry key="S60" value="13.901900962778518" />
-      <entry key="M2" value="18.052184736367643" />
-      <entry key="M5" value="21.76500677009074" />
-      <entry key="M10" value="23.293260540037746" />
-      <entry key="M15" value="23.841211513447053" />
-      <entry key="M30" value="24.409825940640555" />
-      <entry key="H1" value="24.70216041595217" />
-      <entry key="H2" value="24.850384726705972" />
-      <entry key="H4" value="24.925017566129995" />
-      <entry key="D1" value="24.987478571198267" />
-      <entry key="W1" value="24.998210626937126" />
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.9904906292449956" />
+      <entry key="S2" value="1.2153595022134185" />
+      <entry key="S5" value="2.0863953453857547" />
+      <entry key="S10" value="3.3458359570440335" />
+      <entry key="S30" value="6.588711860622849" />
+      <entry key="S60" value="8.573630373965853" />
+      <entry key="M2" value="10.364852802859152" />
+      <entry key="M5" value="19.700275268365278" />
+      <entry key="M10" value="49.574817716509955" />
+      <entry key="M15" value="83.48421145616065" />
+      <entry key="M30" value="173.51011808444167" />
+      <entry key="H1" value="282.2291549185437" />
+      <entry key="H2" value="374.23534548515454" />
+      <entry key="H4" value="435.635216486539" />
+      <entry key="D1" value="497.3188310473379" />
+      <entry key="W1" value="509.0158695163982" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
@@ -106,6 +111,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Database Script.basesita1.sql.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.ExamenRepaso [clean].executor": "Run",
     "Maven.ExamenRepaso [package].executor": "Run",
@@ -114,7 +120,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Smart Tomcat.Tomcat9.executor": "Run",
+    "Smart Tomcat.Tomcat9.executor": "Debug",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -126,6 +132,14 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/eljok/IdeaProjects/ExamenRepaso/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "9fe71ce1-849a-42f2-a7ad-3686287c1522"
+    ]
   }
 }]]></component>
   <component name="QodanaHighlightedReportService">
@@ -153,11 +167,17 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean" />
       <command value="mvn package" />
+      <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Smart Tomcat.Tomcat9">
+    <configuration name="basesita1.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/basesita1.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="9fe71ce1-849a-42f2-a7ad-3686287c1522" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat9" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
@@ -184,6 +204,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Database Script.basesita1.sql" />
+      <item itemvalue="Smart Tomcat.Tomcat9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.basesita1.sql" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
